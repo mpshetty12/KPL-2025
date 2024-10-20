@@ -14,5 +14,5 @@ function App() {
     </div>
   );
 }
-
+// "homepage" : "https://mpshetty12.github.io/KPL-2025" in package.json
 export default App;

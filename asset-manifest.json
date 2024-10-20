@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mpshetty12/KPL-2025.git/static/css/main.fc9d466b.css",
-    "main.js": "/mpshetty12/KPL-2025.git/static/js/main.506ffe07.js",
-    "static/js/453.1d2a4b3b.chunk.js": "/mpshetty12/KPL-2025.git/static/js/453.1d2a4b3b.chunk.js",
-    "index.html": "/mpshetty12/KPL-2025.git/index.html",
-    "main.fc9d466b.css.map": "/mpshetty12/KPL-2025.git/static/css/main.fc9d466b.css.map",
-    "main.506ffe07.js.map": "/mpshetty12/KPL-2025.git/static/js/main.506ffe07.js.map",
-    "453.1d2a4b3b.chunk.js.map": "/mpshetty12/KPL-2025.git/static/js/453.1d2a4b3b.chunk.js.map"
+    "main.css": "/KPL-2025/static/css/main.fc9d466b.css",
+    "main.js": "/KPL-2025/static/js/main.9b5a52d2.js",
+    "static/js/453.1d2a4b3b.chunk.js": "/KPL-2025/static/js/453.1d2a4b3b.chunk.js",
+    "index.html": "/KPL-2025/index.html",
+    "main.fc9d466b.css.map": "/KPL-2025/static/css/main.fc9d466b.css.map",
+    "main.9b5a52d2.js.map": "/KPL-2025/static/js/main.9b5a52d2.js.map",
+    "453.1d2a4b3b.chunk.js.map": "/KPL-2025/static/js/453.1d2a4b3b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fc9d466b.css",
-    "static/js/main.506ffe07.js"
+    "static/js/main.9b5a52d2.js"
   ]
 }
